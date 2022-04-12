@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    margin-left: 20px !important;
+    font-family: 'Cedarville Cursive', cursive;}
+
+.navbar-nav{
+    margin-left: auto !important;
+}
+
+.nav-item a{
+    color: white !important;
+}
+
+nav .nav-item .active{
+    color : #333 !important
+}
+
+.mapContainer {
+    text-align: center;
+    margin: 0 auto;
+}
